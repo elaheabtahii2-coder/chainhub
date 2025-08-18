@@ -1,5 +1,5 @@
 # chainhub
-blockchain experiment
+blockchain experiments
 # chainhub
 Small experiments and demos for chains and testnets.
 
