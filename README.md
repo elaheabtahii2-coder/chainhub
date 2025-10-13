@@ -4,5 +4,5 @@ blockchain experiments
 Small experiments and demos for chains and testnets.
 
 ## Run
-`bas
+`bash
 python main.py
